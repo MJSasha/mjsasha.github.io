@@ -1,0 +1,26 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "dev.mjwatch.mobile",
+      "sha256_cert_fingerprints": [
+        "C6:95:E4:5C:49:E8:F3:8F:44:92:7B:76:3C:9F:A7:4B:C8:A0:E7:0E:3A:77:4C:40:81:E9:1E:1E:05:4E:7F:AD"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "dev.mjwatch.tv",
+      "sha256_cert_fingerprints": [
+        "C6:95:E4:5C:49:E8:F3:8F:44:92:7B:76:3C:9F:A7:4B:C8:A0:E7:0E:3A:77:4C:40:81:E9:1E:1E:05:4E:7F:AD"
+      ]
+    }
+  }
+]
